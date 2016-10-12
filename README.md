@@ -15,7 +15,7 @@ I am a keen IoT inventor as a hobbyist in <a href="http://iotmaker.mybluemix.net
 
 ***
 
-* Where is my IoT device? [Click Here.](http://iotmaker.mybluemix.net/IoTDeviceLocation)
+* Where is my IoT sensor device? [Click Here.](http://iotmaker.mybluemix.net/IoTDeviceLocation)
 ![IoT%20Temperature:HumidityGPSSensorOnGoogle%20Map.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/IoT%20Temperature:HumidityGPSSensorOnGoogle%20Map.png)
 
 ***
