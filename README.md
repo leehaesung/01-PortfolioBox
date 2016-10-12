@@ -5,17 +5,17 @@ I am a keen IoT inventor as a hobbyist in <a href="http://iotmaker.mybluemix.net
 ***
 
 ## 2016 
-* [IoT Remote Gas Valve For Forgetting mum](https://github.com/leehaesung/01-PortfolioBox/blob/master/IoTGasValve.md)
+* IoT Remote Gas Valve For Forgetting mum: [Click Here.](https://github.com/leehaesung/01-PortfolioBox/blob/master/IoTGasValve.md)
 ![04Portfolio.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/04Portfolio.png)
 
 ***
 
-* [The Cheapest IoT Home Security Camera](https://github.com/leehaesung/01-PortfolioBox/blob/master/IoTHomeSecurityCamera.md)
+* The Cheapest IoT Home Security Camera: [Click Here.](https://github.com/leehaesung/01-PortfolioBox/blob/master/IoTHomeSecurityCamera.md)
 ![06portfolio_IoTsecrityCamera.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/06portfolio_IoTsecrityCamera.png)
 
 ***
 
-* [Where is my IoT device?](https://github.com/leehaesung/NodeRED/blob/master/02_CodeFiles/04_GPS_Web/README.md)
+* Where is my IoT device? [Click Here.](http://iotmaker.mybluemix.net/IoTDeviceLocation)
 ![IoT%20Temperature:HumidityGPSSensorOnGoogle%20Map.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/IoT%20Temperature:HumidityGPSSensorOnGoogle%20Map.png)
 
 ***
