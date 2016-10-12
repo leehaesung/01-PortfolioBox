@@ -7,5 +7,5 @@ I am a keen IoT inventor as a hobbyist in <a href="http://iotmaker.mybluemix.net
 ## 2016 
 * [Smart IoT Home Gas Valve](https://github.com/leehaesung/01-PortfolioBox/blob/master/IoTGasValve.md)
 * [Smart IoT Home Security Camera](https://github.com/leehaesung/01-PortfolioBox/blob/master/IoTHomeSecurityCamera.md)
-* [Smart IoT Temperature/Humidity/GPS Sensor](https://github.com/leehaesung/NodeRED/blob/master/02_CodeFiles/04_GPS_Web/README.md)
+* [IoT Temperature/Humidity/GPS Sensor on Google Map](https://github.com/leehaesung/NodeRED/blob/master/02_CodeFiles/04_GPS_Web/README.md)
 
