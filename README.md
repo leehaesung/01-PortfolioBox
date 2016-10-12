@@ -16,5 +16,7 @@ I am a keen IoT inventor as a hobbyist in <a href="http://iotmaker.mybluemix.net
 ***
 
 * [IoT Temperature/Humidity/GPS Sensor on Google Map](https://github.com/leehaesung/NodeRED/blob/master/02_CodeFiles/04_GPS_Web/README.md)
-*[IoT%20Temperature:HumidityGPSSensorOnGoogle%20Map.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/IoT%20Temperature:HumidityGPSSensorOnGoogle%20Map.png)
+* [IoT%20Temperature:HumidityGPSSensorOnGoogle%20Map.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/IoT%20Temperature:HumidityGPSSensorOnGoogle%20Map.png)
+
+***
 
