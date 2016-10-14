@@ -1,6 +1,6 @@
 # Home IoT Security Camera
 
-* Very Expensive?? Noooooo! This is the Cheapest Solution For Home Security!!
+* This is the Cheapest Solution For Home Security.
 
 ![01portfolio_IoTsecrityCamera.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/01portfolio_IoTsecrityCamera.png)
 
