@@ -5,7 +5,7 @@ I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.myblu
 ***
 
 ## 2016 
-* IoT Remote Gas Valve For Forgetting mum: [Click Here.](https://github.com/leehaesung/01-PortfolioBox/blob/master/IoTGasValve.md)
+* IoT remote gas valve for forgetful mum: [Click Here.](https://github.com/leehaesung/01-PortfolioBox/blob/master/IoTGasValve.md)
 ![04Portfolio.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/04Portfolio.png)
 
 ***
