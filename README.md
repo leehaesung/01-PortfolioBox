@@ -8,7 +8,7 @@ I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.myblu
 * MQTT Gas Valve For Home Safety (Node-RED)
 ![GasVV.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/GasVV.png)
 ![SmartGasValve_MQTT](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/SmartGasValve_MQTT.png)
-![AddingPullUpResistor01.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/AddingPullUpResistor01.png)
+![AddingPullupResistor4.7kohm.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/AddingPullupResistor4.7kohm.png)
 ![Topics_SmartGasValve_MQTT.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/Topics_SmartGasValve_MQTT.png)
 ![MQTT-Gas-VV01.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/MQTT-Gas-VV01.png)
 ![MQTT-Gas-VV02.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/MQTT-Gas-VV02.png)
