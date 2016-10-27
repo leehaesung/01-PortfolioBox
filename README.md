@@ -12,6 +12,7 @@ MQTT(Message Queueing Telemetry Transport) is a Machine-To-Machine(M2M) or Inter
 
 ![GasVV.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/GasVV.png)
 ![SmartGasValve_MQTT](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/SmartGasValve_MQTT.png)
+![M2M_MQTT.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/M2M_MQTT.png)
 ![AddingPullupResistor4.7kohm.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/AddingPullupResistor4.7kohm.png)
 ![Topics_SmartGasValve_MQTT.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/Topics_SmartGasValve_MQTT.png)
 ![MQTT-Gas-VV01.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/MQTT-Gas-VV01.png)
