@@ -9,6 +9,7 @@ I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.myblu
 
 MQTT(Message Queueing Telemetry Transport) is a Machine-To-Machine(M2M) or Internet of Things (IoT) connectivity protocol that was designed to be extremely lightweight and useful when low battery power consumption and low network bandwidth is at a premium and connection quality could be unreliable. It was invented in 1999 by Dr Andy Stanford-Clark and Arlen Nipper and is now an Oasis Standard.
 
+* [YouTube](https://www.youtube.com/watch?v=g9SXgaBl3sw)
 
 ![GasVV.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/GasVV.png)
 ![SmartGasValve_MQTT](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/SmartGasValve_MQTT.png)
