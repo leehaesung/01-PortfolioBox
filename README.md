@@ -5,7 +5,7 @@ I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.myblu
 ***
 
 ## 2016 
-* a IBM Watson Visual Recognition sample Face Detection app
+* [a IBM Watson Visual Recognition sample Face Detection app](http://leehaesung.eu-gb.mybluemix.net/people)
 
 ![a%20IBM%20Watson%20Visual%20Recognition%20sample%20Face%20Detection%20app01.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/a%20IBM%20Watson%20Visual%20Recognition%20sample%20Face%20Detection%20app01.png)
 
