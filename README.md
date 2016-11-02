@@ -5,6 +5,10 @@ I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.myblu
 ***
 
 ## 2016 
+* a IBM Watson Visual Recognition sample Face Detection app
+![a%20IBM%20Watson%20Visual%20Recognition%20sample%20Face%20Detection%20app01.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/a%20IBM%20Watson%20Visual%20Recognition%20sample%20Face%20Detection%20app01.png)
+![a%20IBM%20Watson%20Visual%20Recognition%20sample%20Face%20Detection%20app02.png(https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/a%20IBM%20Watson%20Visual%20Recognition%20sample%20Face%20Detection%20app02.png)
+
 * MQTT Gas Valve For Home Safety (Node-RED)
 
 MQTT(Message Queueing Telemetry Transport) is a Machine-To-Machine(M2M) or Internet of Things (IoT) connectivity protocol that was designed to be extremely lightweight and useful when low battery power consumption and low network bandwidth is at a premium and connection quality could be unreliable. It was invented in 1999 by Dr Andy Stanford-Clark and Arlen Nipper and is now an Oasis Standard.
