@@ -5,7 +5,7 @@ I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.myblu
 ***
 
 ## 2016 
-* My Homte Automation
+* My Home Automation
 
 ![myHomeData.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/myHomeData.png)
 
