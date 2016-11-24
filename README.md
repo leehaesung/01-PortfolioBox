@@ -45,7 +45,7 @@ MQTT(Message Queueing Telemetry Transport) is a Machine-To-Machine(M2M) or Inter
 
 ***
 
-* Where is my IoT sensor device? [Click Here.](http://leehaesung.eu-gb.mybluemix.net/IoTDeviceLocation)
+* Where is my IoT sensor device?
 ![iotsensordevice.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/iotsensordevice.png)
 
 ***
