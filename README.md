@@ -7,6 +7,9 @@ I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.myblu
 ## 2016 
 * My Home Automation
 
+![PIDcontrolnSW.jpeg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/PIDcontrolnSW.jpeg)
+
+
 ![myHomeData.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/myHomeData.png)
 
 * [a IBM Watson Visual Recognition sample Face Detection app](http://leehaesung.eu-gb.mybluemix.net/people)
