@@ -10,8 +10,6 @@ I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.myblu
 
 ![AppleCoreML02.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/AppleCoreML02.png)
 
-![AppleCoreML01.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/AppleCoreML01.png)
-
 ![AppleCoreML03.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/AppleCoreML03.png)
 
 
