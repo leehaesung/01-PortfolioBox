@@ -8,9 +8,15 @@ I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.myblu
 
 * iPhone Apps for image recognition
 
+![07portfolio.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/07portfolio.png)
+
+![08portfolio.jpg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/08portfolio.jpg)
+
 ![AppleCoreML02.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/AppleCoreML02.png)
 
 ![AppleCoreML03.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/AppleCoreML03.png)
+
+![09portfolio.jpg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/09portfolio.jpg)
 
 
 * TensorFlow-Powered Vision For Pi-based robot
