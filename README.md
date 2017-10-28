@@ -1,6 +1,6 @@
 # My Portfolio Box
 
-I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.mybluemix.net/IoTDeviceLocation">Sydney</a> and very passionate about IoT and Alogrithms such as MACHINE LEARNING, COMPUTATIONAL STATISTICS and so on. Also, I have spent almost every day of the past 15 years making robots or electronic inventions or computer programs. <a href="http://leehaesung.eu-gb.mybluemix.net/mycv">(WEB CV)</a>
+I am a keen IoT inventor as a hobbyist in <a href="http://leehaesung.eu-gb.mybluemix.net/IoTDeviceLocation">Sydney</a> and very passionate about IoT and Alogrithms such as MACHINE LEARNING, COMPUTATIONAL STATISTICS and so on. Also, I have spent almost every day of the past 15 years making robots or electronic inventions or computer programs. <a href="http://leehaesung.mybluemix.net/mycv">(WEB CV)</a>
 
 ***
 
