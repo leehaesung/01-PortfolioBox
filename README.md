@@ -33,6 +33,8 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ![09portfolio.jpg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/09portfolio.jpg)
 
+![iosApp_ML.jpg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/iosApp_ML.jpg)
+
 ***
 
 * TensorFlow-Powered Vision For Pi-based robot
