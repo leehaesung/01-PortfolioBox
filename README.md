@@ -6,6 +6,13 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ## 2017
 
+* AI DeepCounter System (Real Time Deep Learning)
+!(DeepCounter_Arechitecture.png)[https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounter_Arechitecture.png]
+!(DeepCounter01.png)[https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounter01.png]
+!(DeepCounter02.png)[https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounter02.png]
+
+***
+
 * IoT Sensor System By SigFox(LPWAN)
 ![/SigFox_For_Arduino.jpg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/SigFox_For_Arduino.jpg)
 ![SigFox_IoT_System.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/SigFox_IoT_System.png)
