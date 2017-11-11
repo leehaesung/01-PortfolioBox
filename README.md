@@ -10,7 +10,7 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ![DeepCounter_Arechitecture.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounter_Arechitecture.png)
 ![DeepCounterSystem.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounterSystem.png)
-![DeepCounter02.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounter02.png)
+![DeepCounterMobileSystem.jpg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounterMobileSystem.jpg)
 
 ***
 
