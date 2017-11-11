@@ -7,6 +7,7 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 ## 2017
 
 * AI DeepCounter System (Real Time Deep Learning)
+
 ![DeepCounter_Arechitecture.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounter_Arechitecture.png)
 ![DeepCounter01.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounter01.png)
 ![DeepCounter02.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/DeepCounter02.png)
@@ -17,6 +18,7 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 ![/SigFox_For_Arduino.jpg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/SigFox_For_Arduino.jpg)
 ![SigFox_IoT_System.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/SigFox_IoT_System.png)
 
+***
 
 * iPhone Apps for image recognition
 
@@ -30,6 +32,7 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ![09portfolio.jpg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/09portfolio.jpg)
 
+***
 
 * TensorFlow-Powered Vision For Pi-based robot
 
@@ -39,9 +42,13 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ![Structure_YOLO.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/Structure_YOLO.png)
 
+***
+
 * IBM Watson Cloud Robot
 
 ![cover.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/cover.png)
+
+***
 
 * RNN Stock Price Prediction By TensorFlow
 ![RNN_stock_price_prediction.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/RNN_stock_price_prediction.png)
@@ -51,12 +58,14 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 ***
 
 ## 2016 
+
 * My Home Automation
 
 ![PIDcontrolnSW.jpeg](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/PIDcontrolnSW.jpeg)
 
-
 ![myHomeData.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/myHomeData.png)
+
+***
 
 * [a IBM Watson Visual Recognition sample Face Detection app](http://leehaesung.eu-gb.mybluemix.net/people)
 
@@ -64,10 +73,13 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ![a%20IBM%20Watson%20Visual%20Recognition%20sample%20Face%20Detection%20app02.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/a%20IBM%20Watson%20Visual%20Recognition%20sample%20Face%20Detection%20app02.png)
 
+***
 
 * MQTT Gas Valve For Home Safety (Node-RED)
 
 MQTT(Message Queueing Telemetry Transport) is a Machine-To-Machine(M2M) or Internet of Things (IoT) connectivity protocol that was designed to be extremely lightweight and useful when low battery power consumption and low network bandwidth is at a premium and connection quality could be unreliable. It was invented in 1999 by Dr Andy Stanford-Clark and Arlen Nipper and is now an Oasis Standard.
+
+***
 
 * [YouTube](https://www.youtube.com/watch?v=g9SXgaBl3sw)
 
