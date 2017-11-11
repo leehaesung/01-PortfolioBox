@@ -36,6 +36,12 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ![cover.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/cover.png)
 
+* RNN Stock Price Prediction By TensorFlow
+![RNN_stock_price_prediction.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/RNN_stock_price_prediction.png)
+![stock_price_prediction01.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/stock_price_prediction01.png)
+![stock_price_prediction02.png](https://github.com/leehaesung/01-PortfolioBox/blob/master/01_ImageBox/stock_price_prediction02.png)
+
+***
 
 ## 2016 
 * My Home Automation
