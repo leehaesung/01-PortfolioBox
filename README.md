@@ -15,6 +15,7 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ![Architecture](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/SeoulWeatherArchitecture.png)
 
+***
 
 ## 2017
 
