@@ -9,8 +9,9 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 * Seoul Weahter Twitter (Time Series Analysis)
 
   * [https://twitter.com/aniotmaker](https://twitter.com/aniotmaker)
-  
   * [Jupyter Web Viewer](https://nbviewer.jupyter.org/github/leehaesung/seoul_weather_twitter_Analysis/blob/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
+  * [SlideShare](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
+  
 
 ![Architecture](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/SeoulWeatherArchitecture.png)
 
