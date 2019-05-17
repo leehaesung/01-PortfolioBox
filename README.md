@@ -4,6 +4,13 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ***
 
+## 2019
+
+* Seoul Weahter Twitter (Time Series Analysis)
+
+![Architecture](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/SeoulWeatherArchitecture.png)
+
+
 ## 2017
 
 * AI DeepCounter System (Real Time Deep Learning)
