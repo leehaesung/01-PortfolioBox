@@ -6,6 +6,12 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ## 2019
 
+* Time Deries Analysis of Temperature Data for 5G LTE Cat.M1 Device(SKT Telecom)
+
+![Architecture](https://raw.githubusercontent.com/leehaesung/01-PortfolioBox/master/01_ImageBox/10_portfolio.png)
+
+***
+
 * Seoul Weahter Twitter (Time Series Analysis)
 
   * [https://twitter.com/aniotmaker](https://twitter.com/aniotmaker)
