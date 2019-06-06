@@ -12,7 +12,6 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 ![Architecture](https://raw.githubusercontent.com/leehaesung/01-PortfolioBox/master/01_ImageBox/10_portfolio.png)
 ![TimeSeriesAnalysis](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_1.png)
-![Analytics](https://raw.githubusercontent.com/leehaesung/01-PortfolioBox/master/01_ImageBox/10-2_portfolio.png)
 
 ***
 
