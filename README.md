@@ -7,6 +7,8 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 ## 2019
 
 * Time Deries Analysis of Temperature Data for 5G LTE Cat.M1 Device(SKT Telecom)
+  - [Using SQLite3_with_LTE_Cat.M1 Device](https://github.com/leehaesung/SQLite3_with_LTE_CatM1)
+  - [Jupyter Web Viwer(IoT Data Analytics)](https://nbviewer.jupyter.org/github/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.4.ipynb)
 
 ![Architecture](https://raw.githubusercontent.com/leehaesung/01-PortfolioBox/master/01_ImageBox/10_portfolio.png)
 
