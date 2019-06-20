@@ -8,11 +8,14 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 
 * Time Series Analysis of Temperature Data for 5G LTE Cat.M1 Device(SKT Telecom)
   - [Using SQLite3_with_LTE_Cat.M1 Device](https://github.com/leehaesung/SQLite3_with_LTE_CatM1)
-  - [Jupyter Web Viwer(IoT Data Analytics)](https://nbviewer.jupyter.org/github/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.4.ipynb)
-
+ 
+    - Whole Framework:
 ![Architecture](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Framework_LTE_CatM1_MQTT.png)
+    - Time Series Analysis:
 ![TimeSeriesAnalysis01](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_1.png)
+    - [TSA + RNN Model](https://nbviewer.jupyter.org/github/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.5.ipynb):
 ![TimeSeriesAnalysis02](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_7.png)
+    - [TSA + LSTM Model](https://nbviewer.jupyter.org/github/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.6.ipynb):
 ![TimeSeriesAnalysis03](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_9.png)
 
 ***
