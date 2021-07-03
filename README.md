@@ -3,6 +3,14 @@
 I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT and Alogrithm such as MACHINE LEARNING, COMPUTATIONAL STATISTICS and so on. Also, I have spent almost every day of the past 15 years making robots or electronic inventions or computer programs. 
 
 ***
+## 2020
+* JetBot(NVIDIA Jetson Nano 2GB & 4GB): A Autonomous Car
+  - Running the Jetbot
+    ![JetBot01.png](https://raw.githubusercontent.com/leehaesung/01-PortfolioBox/master/01_ImageBox/JetBot01.png)
+    
+    ![JetBot02.png](https://raw.githubusercontent.com/leehaesung/01-PortfolioBox/master/01_ImageBox/JetBot02.jpg)
+
+***
 
 ## 2019
 * My Heart Rate(bpm) For Time Series Analysis(Apple Watch2)
