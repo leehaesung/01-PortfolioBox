@@ -5,9 +5,9 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
 ***
 ## 2020
 * JetBot(NVIDIA Jetson Nano 2GB & 4GB): A Autonomous Car
-  - Running the Jetbot
+  - Running the Jetbot: [Watch the Demo](https://www.facebook.com/100001299028211/videos/3547304735322792/)
     ![JetBot01.png](https://raw.githubusercontent.com/leehaesung/01-PortfolioBox/master/01_ImageBox/JetBot01.png)
-    
+  - Jetbot 4GB Vs JetBot2GB  
     ![JetBot02.png](https://raw.githubusercontent.com/leehaesung/01-PortfolioBox/master/01_ImageBox/JetBot02.jpg)
 
 ***
