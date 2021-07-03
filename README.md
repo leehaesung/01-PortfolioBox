@@ -16,17 +16,22 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
   - Source Code
     * [Jupyter Notebook Viewer (web)](https://nbviewer.jupyter.org/github/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/02_Codes/My_Heart_Rate_For_Time_Series_Analysis.ipynb)
     * [Jupyter Notebook (ipynb)](https://github.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/blob/master/02_Codes/My_Heart_Rate_For_Time_Series_Analysis.ipynb)
+    * 
   - Data Visualization 
     - Prediction
+    
         ![Prediction](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/Prediction.png)
 
     - Apple Watch with Heart
+    
       ![Simulation](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/Apple-Watch.gif)
 
     - Photodiode Sensors
+
       ![HearRate](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/apple-watch-diagram.jpg)
 
     - Heart Rate (bpm)
+    
       ![HealthKitData01.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData01.png)
 
     - Histogram
@@ -36,9 +41,11 @@ I am a keen IoT inventor as a hobbyist in Sydney and very passionate about IoT a
       ![HealthKitData03.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData03.png)
 
     - Lag Plot
+    
       ![HealthKitData04.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData04.png)
 
     - Autocorelation Diagram
+    
       ![HealthKitData05.png](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/01_Images/HealthKitData05.png)
 
 ***
